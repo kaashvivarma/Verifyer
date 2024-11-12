@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+
+
+# Ignore the 'templates' folder if it's not needed for Git tracking
+templates/
+
+# Ignore PPT files
+*.ppt
+*.pptx
+
+# Ignore Word documents
+*.doc
+*.docx
+
+# Ignore PDF files
+*.pdf
+
+*.xlsb

@@ -1,0 +1,3 @@
+Deployed fake news detector:
+verifyer-at4i8skbxgsxxpnhwlqes3.streamlit.app
+
